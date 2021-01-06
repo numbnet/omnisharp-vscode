@@ -154,3 +154,7 @@ By signing the [CLA](https://cla.dotnetfoundation.org/OmniSharp/omnisharp-roslyn
 ## .NET Foundation
 
 This project is supported by the [.NET Foundation](http://www.dotnetfoundation.org).
+
+
+## Installation for Windows:
+https://github.com/OmniSharp/omnisharp-vscode/releases/download/v1.23.8/csharp-1.23.8.vsix
